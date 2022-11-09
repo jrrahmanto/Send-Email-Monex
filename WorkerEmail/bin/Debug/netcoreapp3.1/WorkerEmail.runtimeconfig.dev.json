@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IFA DTI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IFA DTI\\.nuget\\packages"
+    ]
+  }
+}
